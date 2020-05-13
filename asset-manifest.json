@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/huonghuonglacey1020/employeeReact.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/huonghuonglacey1020/employeeReact.git/static/js/main.f1e0a472.chunk.js",
+    "main.js.map": "/huonghuonglacey1020/employeeReact.git/static/js/main.f1e0a472.chunk.js.map",
+    "runtime-main.js": "/huonghuonglacey1020/employeeReact.git/static/js/runtime-main.2ac40e4b.js",
+    "runtime-main.js.map": "/huonghuonglacey1020/employeeReact.git/static/js/runtime-main.2ac40e4b.js.map",
+    "static/css/2.b31a0095.chunk.css": "/huonghuonglacey1020/employeeReact.git/static/css/2.b31a0095.chunk.css",
+    "static/js/2.55992e6b.chunk.js": "/huonghuonglacey1020/employeeReact.git/static/js/2.55992e6b.chunk.js",
+    "static/js/2.55992e6b.chunk.js.map": "/huonghuonglacey1020/employeeReact.git/static/js/2.55992e6b.chunk.js.map",
+    "index.html": "/huonghuonglacey1020/employeeReact.git/index.html",
+    "precache-manifest.c6a87b43fef46aaef83f903b7244eba4.js": "/huonghuonglacey1020/employeeReact.git/precache-manifest.c6a87b43fef46aaef83f903b7244eba4.js",
+    "service-worker.js": "/huonghuonglacey1020/employeeReact.git/service-worker.js",
+    "static/css/2.b31a0095.chunk.css.map": "/huonghuonglacey1020/employeeReact.git/static/css/2.b31a0095.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/huonghuonglacey1020/employeeReact.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.55992e6b.chunk.js.LICENSE.txt": "/huonghuonglacey1020/employeeReact.git/static/js/2.55992e6b.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.css": "/huonghuonglacey1020/employeeReact.git/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ac40e4b.js",
+    "static/css/2.b31a0095.chunk.css",
+    "static/js/2.55992e6b.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.f1e0a472.chunk.js"
+  ]
+}
